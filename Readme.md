@@ -2,7 +2,7 @@
 
 ## Description of the Project
 
-A easy use and already trained Network to detect healthy Glomeruli in
+A easy use and trained Network to detect healthy Glomeruli in
 HE, Jones and PAS stainings of kidney sections. 
 An Execution of the Detector on example images is included in "GlomeruliDetection_from_Image.ipynb".
 Depend on you hardware, it is possible to use images from different sources (Microscope Camera) as input for the Detector.
@@ -14,17 +14,17 @@ Actually, the Detector is limitied on **healthy Glomeruli** and **not for entire
 Check the results in the folder images and the quality of the detection.
 The numbers in the description of the images represents the zoom-factor.
 
-In the future i will extend the ability of the detector to discriminate
+In the future I will extend the ability of the detector to discriminate
 between healthy and skelorized Glomeruli.
 Further plans are to combine the detector with the network U-net for segmentation.
 
 ## Motivation
 
-During my ph.D. i in the Nephrology i anaylzed a lot of  kidney stainings. My task was to count, classifie and measure the size
-of the Glomeruli. I did it manually and it was very boring.
-But with the new A.i technologies today and acessibility,
-we can automate such taskes. 
-Therefore i will share my experiences and want collaborate with other motivated colleques to extend the Detector.
+During my ph.D.  in the Nephrology I anaylzed a lot of  kidney stainings. My task was to count, classifie and measure the size
+of the Glomeruli. I did it manually and that was very exhausting.
+But with the new A.I technologies today and accessibility,
+we can automate such tasks. 
+Therefore I will share my experiences and want to collaborate with other motivated colleques to extend the Detector.
 
 ## Prequisities to use :
 
